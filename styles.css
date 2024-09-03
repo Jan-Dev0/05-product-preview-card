@@ -122,9 +122,8 @@ body {
   font-size: 3.2rem;
   font-weight: 700;
 }
-.product-card__price-old {
+.product-card__price--old {
   text-decoration: line-through;
-  margin-left: 3rem;
 }
 /* Cart button styles */
 .product-card__button-wrapper {
