@@ -41,4 +41,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@Jan-Dev0](https://www.frontendmentor.io/profile/Jan-Dev0)
+- Frontend Mentor - [@Jan-Dev0](https://jan-dev0.github.io/05-product-preview-card/)
